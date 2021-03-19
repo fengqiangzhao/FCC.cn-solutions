@@ -1,2 +1,1 @@
-# The-Note-of-Javascript
-Some daily notes about Javascript learning
+FreeCodeCamp解题记录, 记录大部分题目的答案和解题思路, 补充中...
